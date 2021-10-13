@@ -1,0 +1,4 @@
+CREATE DATABASE sample;
+exit
+mysqldump example > example.sql
+mysql sample < example.sql
