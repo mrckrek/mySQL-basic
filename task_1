@@ -1,0 +1,5 @@
+[mysql]
+user=root
+password=root
+
+Сохраняем в папку windows под название my.cnf
